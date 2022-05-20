@@ -14,7 +14,7 @@ Online movie ticket booking system is basically made for providing the customers
 ![image](https://user-images.githubusercontent.com/75558691/169521563-c186be9c-e326-4af9-98c9-4fdcc2984068.png)
 
 **Output and Result of the project - **
-1. When we run program for first time then it ask for Owner and set password:     ![image](https://user-images.githubusercontent.com/75558691/169522146-e9f9a21f-fa6c-4246-b792-a7ae7fba149e.png)
+1. When we run program for first time then it ask for Owner and set your password:     ![image](https://user-images.githubusercontent.com/75558691/169522146-e9f9a21f-fa6c-4246-b792-a7ae7fba149e.png)
 2. After add Owner welcome screen is shown :      ![image](https://user-images.githubusercontent.com/75558691/169522414-baea6e5a-1f2f-43ad-b87a-4bc389c5c29e.png)
 3. After welcome screen it will ask for owner or user. For add movie and set price of tickets owner must login:      ![image](https://user-images.githubusercontent.com/75558691/169522550-48dcfdda-d85d-408d-952f-d1b3a6c473dc.png)
 4. Owner add movies with tickets price:      ![image](https://user-images.githubusercontent.com/75558691/169522785-ecb79b30-1404-40dc-9c18-72475a989925.png)
