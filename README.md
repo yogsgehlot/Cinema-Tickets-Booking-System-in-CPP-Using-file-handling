@@ -1,9 +1,5 @@
 Project for Cinema Ticket Booking System in C++ by using file handling (Beginner) (1st Industrial training project)
 
-Contributors of this project are : 
-1. **Yogesh Gehlot** (https://github.com/yogsgehlot)
-2. **Epsa Sharma** (https://github.com/20BCS4485)
-3. **Reena Rewri** (https://github.com/Ree190)
 --------------------------------------------------------------------
 
 Online movie ticket booking system is basically made for providing the customers an anytime and anywhere service for booking cinema tickets and providing information about the movies and their schedule online. This program is written in C++ language. It generates a report on booking ticket, seats and the cost. The user will input the required and the system will print the details in the ticket form.
